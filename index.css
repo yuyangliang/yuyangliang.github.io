@@ -6,7 +6,7 @@ section {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 5%;
-	margin-bottom: 5%;
+	margin-bottom: 0%;
 	width: 70%;
 	border: thick solid black;
 	background-color: white;
@@ -34,4 +34,17 @@ section {
 
 p {
 	margin-bottom: 3%;
+}
+
+a, a:link, a:visited, a:hover, a:active {
+	color: black;
+}
+
+#cright{
+	text-align: right;
+	font-size: 110%;
+	font-family: 'Courier New', san-serif;
+	margin-right: 10%;
+	margin-top: 0.5%;
+	line-height:0.05;
 }
