@@ -10,7 +10,7 @@ section {
 	width: 70%;
 	border: thick solid black;
 	background-color: white;
-	padding: 1% 5% 1% 5%;
+	padding: 1% 8% 1% 5%;
 }
 
 #name {
@@ -46,5 +46,5 @@ a, a:link, a:visited, a:hover, a:active {
 	font-family: 'Courier New', san-serif;
 	margin-right: 10%;
 	margin-top: 0.5%;
-	line-height:0.05;
+	line-height:0.01;
 }
