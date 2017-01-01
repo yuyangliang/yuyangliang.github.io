@@ -14,13 +14,13 @@ section {
 }
 
 #name {
-	font-family: 'Lucida Console', san-serif;
+	font-family: 'Lucida Console', 'Courier New', 'Helvetica', san-serif;
 	font-size: 350%;
 	line-height: 0.7;
 }
 
 .sectitle {
-	font-family: 'Courier New', san-serif;
+	font-family: 'Courier New', 'Helvetica', san-serif;
 	font-size: 150%;
 	font-weight: bold;
 	line-height: 0.1;
